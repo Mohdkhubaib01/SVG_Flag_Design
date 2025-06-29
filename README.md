@@ -29,8 +29,8 @@ Or open it via Live Server in VS Code.
 
 ## 📂 Folder Structure
 ```
-SVG_Flag/
-├── index.html
+SVG_Flag
+├── index.htm
 ├── screenshots/
 │   └── india_flag.png
 └── README.md
