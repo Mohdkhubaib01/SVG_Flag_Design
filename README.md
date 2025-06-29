@@ -42,7 +42,7 @@ SVG_Flag
 - Better control of visuals via XML-based markup
 
 ## 📩 Contact
-Made with ❤️ by [Your Name](https://github.com/Mohdkhubaib01)
+Made with ❤️ by [Mohd Khubaib](https://github.com/Mohdkhubaib01)
 📧 Email: mkhubaib543@gmail.com  
 
 ## 📄 License
