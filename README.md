@@ -48,9 +48,8 @@ SVG_Flag/
 - Better control of visuals via XML-based markup
 
 ## 📩 Contact
-Made by [Your Name]  
-📧 Email: yourname@example.com  
-🔗 GitHub: [your-github-link]
+Made by [Mohd Khubaib]  
+📧 Email: mkhubaib543@gmail.com  
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
