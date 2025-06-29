@@ -31,12 +31,6 @@ Or open it via Live Server in VS Code.
 ```
 SVG_Flag/
 ├── index.html
-├── flags/
-│   ├── india.svg
-│   ├── usa.svg
-│   └── ...
-├── css/
-│   └── style.css
 ├── screenshots/
 │   └── india_flag.png
 └── README.md
